@@ -21,15 +21,21 @@
     <ClInclude Include="src\Lotus\Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\Lotus.h">
+    <ClInclude Include="src\Lotus\Lotus.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Lotus\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Lotus\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Lotus\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Lotus\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
