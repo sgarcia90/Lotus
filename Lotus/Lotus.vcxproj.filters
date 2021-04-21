@@ -21,13 +21,13 @@
     <ClInclude Include="src\Lotus\Application.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\Lotus\Lotus.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="src\Lotus\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\Lotus\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Lotus\Lotus.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

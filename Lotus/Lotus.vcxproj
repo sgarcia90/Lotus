@@ -12,10 +12,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Lotus\Log.h" />
-    <ClInclude Include="src\Lotus\Lotus.h" />
     <ClInclude Include="src\Lotus\Application.h" />
     <ClInclude Include="src\Lotus\Core.h" />
     <ClInclude Include="src\Lotus\EntryPoint.h" />
+    <ClInclude Include="src\Lotus\Lotus.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Lotus\Log.cpp" />

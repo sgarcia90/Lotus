@@ -1,4 +1,4 @@
-#include <Lotus.h>
+#include <Lotus/Lotus.h>
 
 class Sandbox : public Lotus::Application
 {

@@ -2,9 +2,9 @@
 
 // For use by Lotus Applications
 
-#include <stdio.h>
-#include "Lotus/Application.h"
+#include "Application.h"
+#include "Log.h"
 
 // ------ Entry Point -------------
-#include "Lotus/EntryPoint.h"
-// --------------------------------
+#include "EntryPoint.h"
+// ------------------------#pragma once
